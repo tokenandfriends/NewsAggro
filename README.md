@@ -1,0 +1,2 @@
+# NewsAggro
+Meteor project 
